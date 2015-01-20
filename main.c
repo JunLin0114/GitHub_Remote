@@ -10,6 +10,10 @@ void func3(void)
 {
 }
 
+void func4(void)
+{
+}
+
 void main(void)
 {
 }
