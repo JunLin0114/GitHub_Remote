@@ -14,6 +14,10 @@ void func4(void)
 {
 }
 
+void typo_func(void)// type error fixed!! 
+{
+
+}
 void main(void)
 {
 }
