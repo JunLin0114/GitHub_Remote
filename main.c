@@ -18,6 +18,11 @@ void typo_func(void)// type error fixed!!
 {
 
 }
+
+void new_func1(void)
+{
+}
+
 void main(void)
 {
 }
