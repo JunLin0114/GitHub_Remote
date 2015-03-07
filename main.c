@@ -26,3 +26,7 @@ void new_func1(void)
 void main(void)
 {
 }
+
+int 1st_branch_Jun_fun()
+{
+}
